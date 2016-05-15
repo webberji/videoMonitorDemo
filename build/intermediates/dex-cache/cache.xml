@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/pre-dexed/debug/classes-cf4e63b69295572d1d0795aeb7305a71afbd6535.jar" />
+    </item>
+    <item
+        jar="/Users/jibowei/android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-6c50200df79a9f4634d983bb7a51adc5f7689438.jar" />
+    </item>
+    <item
+        jar="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/pre-dexed/debug/classes-b21701236ff640a36b0d7bf65a960d31f48a6dda.jar" />
+    </item>
+    <item
+        jar="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/pre-dexed/debug/classes-10445453c2e240956a7e92373310242369f23a77.jar" />
+    </item>
+    <item
+        jar="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/pre-dexed/debug/classes-8c0c2d82865825cc39c8d250450dc41251ba0d81.jar" />
+    </item>
+    <item
+        jar="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-31380e9c3d16084b7c914be12c2d2bd3225f0ce9.jar" />
+    </item>
+    <item
+        jar="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/pre-dexed/debug/classes-fbead7b254344cf697900c2865e2a380ab5de806.jar" />
+    </item>
+    <item
+        jar="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/pre-dexed/debug/classes-444af2ad2fd243dacb8af2a4879b9890a482b56e.jar" />
+    </item>
+    <item
+        jar="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/exploded-aar/videoMonitorDemo0/vitamio/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="da71eaab15c7e57d95f3ab8efacc0edecffedc04">
+        <dex dex="/Users/jibowei/android/videoMonitorDemo0/app/build/intermediates/pre-dexed/debug/classes-89cee29c692bb5658a1bb123004c1057c9831041.jar" />
+    </item>
+
+</items>

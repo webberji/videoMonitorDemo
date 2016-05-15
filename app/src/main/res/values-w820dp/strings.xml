@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">videoMonitorDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="demo1">demo1</string>
+    <string name="camera1">摄像头1</string>
+    <string name="camera2">摄像头2</string>
+    <string name="camera3">摄像头3</string>
+    <string name="camera4">摄像头4</string>
+
+    <string name="video_layout_loading">正在缓冲...</string>
+
+</resources>

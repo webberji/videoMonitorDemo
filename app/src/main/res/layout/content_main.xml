@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableRow
+        android:id="@+id/camera1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/layout_selecter"
+        android:clickable="true">
+
+        <ImageView
+            android:id="@+id/book_image"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:padding="5dp"
+            android:paddingLeft="10dp"
+            android:src="@drawable/img1"
+            android:contentDescription="@string/demo1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/camera1"
+                android:paddingTop="10dp"
+                android:paddingLeft="10dp"/>
+
+            <TextView
+                android:id="@+id/camera1Status"
+                android:layout_width="240dp"
+                android:layout_height="wrap_content"
+                android:text="状态:离线"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"/>
+        </LinearLayout>
+    </TableRow>
+
+    <View android:layout_height="1px" android:background="#000000" android:layout_width="fill_parent"/>
+
+    <TableRow
+        android:id="@+id/camera2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/layout_selecter"
+        android:clickable="true">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:padding="5dp"
+            android:paddingLeft="10dp"
+            android:src="@drawable/img1"
+            android:contentDescription="@string/demo1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/camera2"
+                android:paddingTop="10dp"
+                android:paddingLeft="10dp"/>
+
+            <TextView
+                android:id="@+id/camera2Status"
+                android:layout_width="240dp"
+                android:layout_height="wrap_content"
+                android:text="状态:离线"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"/>
+        </LinearLayout>
+    </TableRow>
+
+    <View android:layout_height="1px" android:background="#000000" android:layout_width="fill_parent"/>
+
+    <TableRow
+        android:id="@+id/camera3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/layout_selecter"
+        android:clickable="true">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:padding="5dp"
+            android:paddingLeft="10dp"
+            android:src="@drawable/img1"
+            android:contentDescription="@string/demo1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/camera3"
+                android:paddingTop="10dp"
+                android:paddingLeft="10dp"/>
+
+            <TextView
+                android:id="@+id/camera3Status"
+                android:layout_width="240dp"
+                android:layout_height="wrap_content"
+                android:text="状态:离线"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"/>
+        </LinearLayout>
+    </TableRow>
+
+    <View android:layout_height="1px" android:background="#000000" android:layout_width="fill_parent"/>
+
+    <TableRow
+        android:id="@+id/camera4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/layout_selecter"
+        android:clickable="true">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:padding="5dp"
+            android:paddingLeft="10dp"
+            android:src="@drawable/img1"
+            android:contentDescription="@string/demo1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/camera4"
+                android:paddingTop="10dp"
+                android:paddingLeft="10dp"/>
+
+            <TextView
+                android:id="@+id/camera4Status"
+                android:layout_width="240dp"
+                android:layout_height="wrap_content"
+                android:text="状态:离线"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"/>
+        </LinearLayout>
+    </TableRow>
+
+</TableLayout>
